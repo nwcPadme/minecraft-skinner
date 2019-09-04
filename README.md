@@ -6,7 +6,7 @@ Converts any image to a minecraft-usable skin.
 
 * Run from command line
 
-`python -m <original image path> <image destination path>`
+`python -m skinner <original image path> <image destination path>`
 
 * (On Windows) Run with batch file
 
